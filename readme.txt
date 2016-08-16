@@ -1,0 +1,5 @@
+Git is a distributed version control system.
+Git is free software abc.
+Git has a mutable index called stage.
+123 456
+1111
